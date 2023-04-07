@@ -6,7 +6,7 @@ public class HolaMundo {
 		System.out.println("Hola Mundo");
         System.out.println("1 cambio - Área de trabajo Local - Consola.");
         System.out.println("1 cambio - Área de trabajo Eclipse.");
-	Syste.out.println("2 cambio - Área de trabajo Local - Consola.");
+	System.out.println("2 cambio - Área de trabajo Local - Consola.");
         System.out.println("2 cambio - Área de trabajo Eclipse.");
 
 	}
